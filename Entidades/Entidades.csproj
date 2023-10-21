@@ -42,10 +42,10 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Ganancia.cs" />
-    <Compile Include="GastoTotalMensual.cs" />
-    <Compile Include="GastoInsumo.cs" />
+    <Compile Include="GastoMensual.cs" />
+    <Compile Include="GastoOtrosInsumo.cs" />
     <Compile Include="Factura.cs" />
-    <Compile Include="LiquidacionMensual.cs" />
+    <Compile Include="Liquidacion.cs" />
     <Compile Include="Empleado.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
